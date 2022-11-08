@@ -1,0 +1,5 @@
+print(10 % 3)
+print(25 % 4)
+print(13 % 2)
+print(16 % 2)
+print(8 % 2)
