@@ -15,4 +15,4 @@ prekes = [
 
 print('VISOS PREKES\n', prekes, '\n----------')
 print('ANTRA PREKE\n', prekes[1], '\n----------')
-print('JOS KAINA\n', prekes[1]['kaina'], '\n----------')
+print('JOS KAINA\n', prekes[1]['kaina'])
