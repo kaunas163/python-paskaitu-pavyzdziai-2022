@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-let directory = './11-tuples-ir-sets';
+let directory = './12-sets';
 let examples_start = 1;
 let examples_count = 50;
 
