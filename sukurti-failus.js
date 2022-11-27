@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-let directory = './12-sets';
+let directory = './13-darbas-su-failais';
 let examples_start = 1;
 let examples_count = 50;
 
