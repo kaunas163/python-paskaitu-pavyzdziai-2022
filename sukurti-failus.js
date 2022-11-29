@@ -1,8 +1,8 @@
 const fs = require('fs');
 
-let directory = './13-darbas-su-failais';
+let directory = './15-demo';
 let examples_start = 1;
-let examples_count = 50;
+let examples_count = 30;
 
 if (!fs.existsSync(directory)){
     fs.mkdirSync(directory);
